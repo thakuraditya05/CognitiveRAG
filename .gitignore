@@ -1,0 +1,25 @@
+# --- Python Bytecode & Caches (Root & Subfolders) ---
+**/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments (Root & Subfolders) ---
+**/venv/
+venv/
+**/env/
+env/
+
+# --- Environment Variables & Secrets (Root & Subfolders) ---
+**/.env
+.env
+
+# --- Databases & Local Storage (Root & Subfolders) ---
+**/*.db
+*.db
+*.sqlite
+*.sqlite3
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
