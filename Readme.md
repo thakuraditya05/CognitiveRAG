@@ -12,19 +12,19 @@ This system moves beyond traditional RAG by introducing self-critique loops. It 
 
 ### 🖥️ Application Dashboard
 
-![Self-RAG Dashboard](./assets/Screenshot 2026-10-02 184053.png)
+![Self-RAG Dashboard](./assests/img1.png)
 
 *Streamlit interface for interacting with the Self-RAG Intelligence Hub.*
 
 ### 🧠 Architecture & Workflow
 
-![Self-RAG Architecture](./assets/Screenshot 2026-10-02 184126.png)
+![Self-RAG Architecture](./assests/img3.png)
 
 *LangGraph workflow showing retrieval, relevance grading, hallucination checking, and query rewriting.*
 
 ### 🔍 Agent Execution / Results
 
-![Self-RAG Execution](./assets/Screenshot 2026-10-02 184837.png)
+![Self-RAG Execution](./assests/img2.png)
 
 *Live agent execution showing the Self-RAG reasoning and retrieval workflow.*
 
